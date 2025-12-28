@@ -80,5 +80,4 @@ If you face any issues, open an Issue in this repository or contact the instruct
 
 ---
 
-**Repository:** Artificial Intelligence — Section A Student Project Submissions  
-
+**Repository:** Artificial Intelligence — Section B Student Project Submissions  
