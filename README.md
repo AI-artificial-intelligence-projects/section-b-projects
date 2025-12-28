@@ -11,7 +11,7 @@ This ensures transparent version history, timestamps, and a standardized grading
 
 1. Fork this repository to your GitHub account  
 2. Clone your fork locally  
-3. Create your project folder inside the `submissions/` directory  
+3. Create your project in the root of this repository
 4. Commit and push your work  
 5. Open a **Pull Request** back to this repository  
 
@@ -27,16 +27,16 @@ Inside `submissions/`, create exactly **one folder** using the format:
 firstname-lastname
 
 Examples
-- submissions/ali-khan
-- submissions/sara-ahmed
+- ali-khan
+- sara-ahmed
 
 Team Projects
 
 If you are submitting as a team, use:
-submissions/team-teamname
+team-teamname
 
 Example:
-- submissions/team-alpha
+- team-alpha
 
 ---
 
@@ -52,8 +52,6 @@ Your project folder **must contain a README.md** including:
 - How to run the project  
 - Results (metrics and screenshots)  
 - References (if any)
-
-Use the template provided in:
 
 
 ---
